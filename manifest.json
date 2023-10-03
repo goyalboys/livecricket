@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Cricket Live Match",
+  "version": "1.0",
+  "description": "Current matches list and status",
+  "author" : "vineet goyal",
+  "action": {
+    "default_popup": "popup.html",
+    "default_title" : "my test"
+  }
+}
